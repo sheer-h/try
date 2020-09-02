@@ -3,3 +3,12 @@ div{
     width:100px;
     height:100px;
 }
+p{
+    background:lime;
+    cursor:pointer;
+}
+h3{
+    width:100px;
+    height:100px;
+    color:violet;
+}
